@@ -8,14 +8,6 @@ import os
 
 #################################################################################
 
-##Make changes to these lines for getting the desired results.
-
-## DIRECTORY of the images
-directory = "E:/data/vids/a"
-
-## directory where the images to be saved:
-f_directory = "E:/data/vids/Yawning/"
-
 ################################################################################
             
 def facecrop(image):
